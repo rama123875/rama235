@@ -5,4 +5,7 @@ void main()
 
 	print("welcome to india");
 	printf("india is great");
+
+	printf("how are u");
+	printf("i am fine");
 }
